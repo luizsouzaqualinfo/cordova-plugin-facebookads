@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-facebookads",
-  "version": "4.23.1",
+  "version": "4.23.2-brian",
   "description": "Cordova Plugin for Facebook AudienceNetwork Ads",
   "cordova": {
     "id": "cordova-plugin-facebookads",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/floatinghotpot/cordova-plugin-facebookads.git"
+    "url": "https://github.com/luizsouzaqualinfo/cordova-plugin-facebookads.git"
   },
   "bugs": {
-    "url": "https://github.com/floatinghotpot/cordova-plugin-facebookads/issues"
+    "url": "https://github.com/luizsouzaqualinfo/cordova-plugin-facebookads/issues"
   },
   "keywords": [
     "cordova",
